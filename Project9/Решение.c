@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
-#include <math.h>
 #define CRT_NO_SECURE_DEPRECATE
-#define _USE_MATH_DEFINES
 #define ROW 9
 #define COL 9
 //1
